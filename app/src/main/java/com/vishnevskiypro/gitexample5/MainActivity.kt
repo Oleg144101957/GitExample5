@@ -8,6 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //my app ver 3
+        //my app ver 5
     }
 }
