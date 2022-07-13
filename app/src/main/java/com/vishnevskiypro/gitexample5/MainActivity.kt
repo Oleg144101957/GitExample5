@@ -9,6 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //my app ver 5
+        //add new feature newFeature !!!!!
 
     }
 }
